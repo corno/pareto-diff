@@ -1,0 +1,21 @@
+{
+  "author": "Corno",
+  "bugs": {
+    "url": "https://github.com/corno/pareto-diff/issues"
+  },
+  "description": "",
+  "homepage": "https://github.com/corno/pareto-diff#readme",
+  "keywords": [],
+  "files": [
+    "dist"
+  ],
+  "license": "ISC",
+  "main": "./dist",
+  "name": "pareto-diff-lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/pareto-diff.git"
+  },
+  "version": "0.0.0",
+  "content-fingerprint": "5d2f814d98fce944584a2b3d5c56e9bba3cedf38"
+}
