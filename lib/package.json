@@ -17,5 +17,13 @@
     "url": "git+https://github.com/corno/pareto-diff.git"
   },
   "version": "0.0.0",
-  "content-fingerprint": "5d2f814d98fce944584a2b3d5c56e9bba3cedf38"
+  "dependencies": {
+    "diff": "^5.1.0",
+    "pareto-diff-api": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/diff": "^5.0.2"
+  },
+  "native": true,
+  "content-fingerprint": "4f898613a88895fc562f43b98ebe1e040c64b424"
 }
