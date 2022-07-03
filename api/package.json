@@ -13,6 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/corno/pareto-diff.git"
   },
-  "version": "0.0.0",
+  "version": "0.1.0",
   "content-fingerprint": "11eccd8abb12c3215237cd3e3680cb8cc121018d"
 }
